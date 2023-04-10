@@ -1,0 +1,17 @@
+body{
+    background-color: lightpink;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0%;
+}
+
+#nav{
+    background-color: brown;
+    margin: 0px;
+    text-align: center;
+    padding: 10px;
+}
+
+#nav a{
+    color: aliceblue;
+    font-size: 26px;
+}
